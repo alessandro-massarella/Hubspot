@@ -55,7 +55,10 @@ ul.navbar li {
 
 #main-1 {
   background-color: #fdf2ef;
+  background-image: url(../img/background-houses.png);
   height: 400px;
+  background-size: cover;
+  background-position: bottom right;
 }
 
 #main-2 {
