@@ -1,0 +1,43 @@
+* {
+  box-sizing;
+  margin: 0;
+  padding: 0;
+  font-family: helvetica;
+}
+
+#header-1 {
+  background-color: #f5f9fd;
+  height: 60px;
+  border-bottom: 1px solid black;
+}
+#header-2 {
+  background-color: white;
+  height: 60px;
+}
+
+#main-1 {
+  background-color: #fdf2ef;
+  height: 400px;
+}
+
+#main-2 {
+  background-color: #f5f9fd;
+  height: 800px;
+}
+
+#main-3 {
+  background-color: #4da9b9;
+  height: 400px;
+}
+
+#main-4 {
+  background-color: white;
+  height: 400px;
+}
+
+#footer-1{
+  background-color: #34475a;
+  height: 400px;
+
+
+}
