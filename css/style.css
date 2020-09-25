@@ -34,6 +34,13 @@
 #logo {
   width: 20%;
 }
+ul.navbar li {
+  list-style-type: none;
+  display: inline-block;
+  height: 50px;
+  line-height: 50px;
+  padding: 5px;
+}
 
 
 #header-1 {
