@@ -14,11 +14,19 @@
   width: 50%;
   height: 60px;
   float: left;
+  line-height: 60px;
 }
 .container-float::after {
   content:"";
   display: table;
   clear:both;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
+.cella-dx {
+  text-align: right;
 }
 
 
