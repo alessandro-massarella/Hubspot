@@ -11,7 +11,7 @@ h1 {
 }
 .main-content, p {
   padding-top: 20px;
-  width: 50%;
+  /* width: 50%; */
   height: 100%;
   margin-bottom: 25px;
 }
@@ -47,6 +47,11 @@ h1 {
   width: 20%;
   vertical-align: middle;
 }
+
+/* #testologo {
+  text-align: center;
+  margin: auto;
+} */
 ul.navbar li {
   list-style-type: none;
   display: inline-block;
@@ -64,6 +69,13 @@ ul.navbar li {
   text-align: center;
 }
 
+.sub-container {
+  text-align: center;
+}
+
+/* .sub-container, p {
+  text-align: center;
+} */
 #header-1 {
   background-color: #f5f9fd;
   height: 60px;
@@ -84,7 +96,7 @@ ul.navbar li {
 
 #main-2 {
   background-color: #f5f9fd;
-  height: 800px;
+  height: 1000px;
 }
 
 #main-3 {
