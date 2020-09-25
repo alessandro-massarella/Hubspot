@@ -9,6 +9,7 @@
   width: 75%;
   margin: 0 auto;
 }
+/* --------------------------------------------- */
 /* per il floating delle 4 celle dell'header: */
 .cella-header {
   width: 50%;
@@ -21,12 +22,17 @@
   display: table;
   clear:both;
 }
+/* ---------------------------------------- */
 .link {
   text-decoration: none;
   color: black;
 }
 .cella-dx {
   text-align: right;
+}
+
+#logo {
+  width: 20%;
 }
 
 
