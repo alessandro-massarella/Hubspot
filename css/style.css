@@ -5,6 +5,23 @@
   font-family: helvetica;
 }
 
+.container {
+  width: 75%;
+  margin: 0 auto;
+}
+/* per il floating delle 4 celle dell'header: */
+.cella-header {
+  width: 50%;
+  height: 60px;
+  float: left;
+}
+.container-float::after {
+  content:"";
+  display: table;
+  clear:both;
+}
+
+
 #header-1 {
   background-color: #f5f9fd;
   height: 60px;
