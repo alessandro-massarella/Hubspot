@@ -77,7 +77,7 @@ ul.navbar li {
   font-size: 20px;
   color: white;
   padding: 10px 24px;
-  border-radius: 5%;
+  border-radius: 10%;
   border: none;
   text-align: center;
 }
@@ -121,7 +121,7 @@ ul.navbar li {
 
 .cont-widget-vertical {
   width: 250px;
-  height: 400px;
+  height: 500px;
   background-color: white;
   margin-top: 30px;
   border-radius: 3%;
@@ -169,6 +169,30 @@ ul.navbar li {
   margin-top: 20px;
 }
 
+.rule {
+  width: 70%;
+  height: 1px;
+  background-color: black;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.text-widget {
+  text-align: center;
+  margin-bottom: 10px;
+}
+ ul {
+   list-style: none;
+
+ }
+
+ #sales-ico {
+   width: 50%;
+ }
+ #service-ico {
+   width: 36%;
+ }
 
 /* ------------------------------------------- */
 .fa {
@@ -189,11 +213,13 @@ ul.navbar li {
   float: left;
 }
 .button-wdgt {
-  width: 10px;
-  height: 6px;
+  width: 90px;
+  height: 20px;
   background-color: #ed7d5b;
-  border-radius: 10%;
+  border-radius: 5px;
   padding: 5px;
+  margin: auto;
+  margin-top: 40px;
 }
 /* .sub-container, p {
   text-align: center;
@@ -218,7 +244,7 @@ ul.navbar li {
 
 #main-2 {
   background-color: #f5f9fd;
-  height: 1000px;
+  height: 1200px;
 }
 
 #main-3 {
