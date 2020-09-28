@@ -248,8 +248,9 @@ ul.navbar li {
 }
 
 #main-3 {
-  background-color: #4da9b9;
-  height: 400px;
+  /* background-color: #4da9b9; */
+  background-image: linear-gradient(to right, #4da9bb , #55bba6);
+  height: 600px;
 }
 
 #main-4 {
@@ -263,6 +264,43 @@ ul.navbar li {
 
 
 }
+/* sezione main 3 */
+.title-main3 {
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
 
+.tabella {
+  height: 300px;
+}
+
+.riga {
+  height: 50%;
+}
+.cella {
+  width: 25%;
+  height: 100%;
+  float: left;
+  text-align: center;
+  margin: auto;
+}
+
+.fa-handshake-o {
+  color: white;
+}
+
+.riga-cella {
+  font-size: 10px;
+  color: white;
+}
+
+.riga-cella-big {
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 
 /* ----debug---- */
